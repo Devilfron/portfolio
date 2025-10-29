@@ -130,3 +130,31 @@ body {
     line-height: 28px;
     margin: 0;
 }
+
+/* contacts */
+.contacts-form {
+    background: #ffffff;
+    border-radius: 5px;
+    box-shadow: -5px 5px 0px #ffc41d;
+    max-width: 380px;
+    padding-top: 40px;
+    padding-bottom: 49px;
+    padding-left: 48px;
+    padding-right: 48px;
+}
+
+.form-title {
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 28px;
+    text-align: center;
+    color: #000000;
+    margin: 0;
+    margin-bottom: 29px;
+}
+
+.input {
+    background: #f8f8f8;
+    border-radius: 5px;
+    box-shadow: inset 0px 3px 10px rgba(199, 199, 199, 0.25);
+}
