@@ -228,3 +228,12 @@ body {
 .contacts-link:hover {
     text-decoration: underline;
 }
+
+.contacts-policy {
+    display: inline-block;
+    font-size: 12px;
+    line-height: 18px;
+    text-decoration: underline;
+    color: #a5a5a5;
+    margin-top: 72px;
+}
