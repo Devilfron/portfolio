@@ -157,4 +157,24 @@ body {
     background: #f8f8f8;
     border-radius: 5px;
     box-shadow: inset 0px 3px 10px rgba(199, 199, 199, 0.25);
+    padding: 18px 20px;
+    padding-left: 50px;
+    width: 100%;
+    border: none;
+    font-size: 14px;
+    line-height: 26px;
+}
+
+.input-name {
+    margin-bottom: 17px;
+    background-image: url(../img/user-icon.svg);
+    background-repeat: no-repeat;
+    background-position: center left 20px;
+}
+
+.input-phone {
+    margin-bottom: 17px;
+    background-image: url(../img/phone-icon.svg);
+    background-repeat: no-repeat;
+    background-position: center left 20px;
 }
